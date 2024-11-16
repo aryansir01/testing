@@ -1,1 +1,2 @@
-const age=22
+const age=55
+console.log(age)
